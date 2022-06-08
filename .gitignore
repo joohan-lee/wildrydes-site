@@ -1,0 +1,6 @@
+# ignore files
+joohan_serverless_codecommit_credentials.csv
+new_user_credentials.csv
+
+# ignore folders
+account info/
